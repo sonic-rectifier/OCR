@@ -1,0 +1,34 @@
+﻿Database Administration: Week 5 Quiz                                                            
+Name:    C?A u£/V, Sisy'yg* AJ                                                                  
+                                                                                                
+                                                                                                
+ 1.    What does DDL stand for?                                                                 
+                                      rio.v uA'YC-v^Z                                           
+ 2.    Would you run a test on a live database? Why or why not?                                 
+ Y£$,    {i&N    a y j?rr                                                                       
+ Ptt+ii Q& ~ti>                                                                                 
+                                                                                                
+ 3.    You are migrating data from one database to another, during the migration, the           
+ network is attacked externally, preventative measures kick in and lock down the                
+ network, once the attack has subsided, you find that there is data loss during the             
+ migration. How do you handle this?                                                             
+ $>l/£ U><*    An0 a£P*«V. W&7 76 6&r                                                           
+ i Ofr Pm    f fio fa    hr uiV                                                                 
+                                                                                                
+ 4.    As the DBA, the CEO of the company needs to see information on a group of employees      
+ that are in the C# web application group (Ginger,MaryAnn,Giligan), this is found in 1          
+ table. The CEO also would like to see that group's operation budget (project money             
+ awarded, overhead, monetary investments) for the fiscal year, which is elsewhere in thi        
+ database on another table. Write a statement that would allow you as the DBA to show           
+ the CEO the information that was requested.                                                    
+ y?\ f] of.    opJpvtylA                                                                        
+                                                                                                
+                                                                                                
+ 5.    In the mysql workbench, the dashboard will show me all of the information that a log     
+ file would.                                                                                    
+ True ( r )    False( X 1                                                                       
+                                                                                                
+Bonus Question:                                                                                 
+What does XML stand for?                                                                        
+                                                                                                
+              . a yuAK    c                                                                    
